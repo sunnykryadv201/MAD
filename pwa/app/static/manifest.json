@@ -1,0 +1,31 @@
+{
+    "name":"PWA Assignments",
+    "short_name":"PwA",
+    "start_url":".",
+    "display":"standalone",
+    "background_color":"#FFE9D2",
+    "theme_color":"#FFE1C4",
+    "orientation":"portrait-primary",
+    "icons":[
+        {
+            "src":"/static/img/icons/background1.png",
+            "type":"image/png",
+            "sizes":"298x192"
+        },
+        {
+            "src":"/static/img/icons/background2.jpg",
+            "type":"image/jpg",
+            "sizes":"1440x801"
+        },
+        {
+            "src":"/static/img/icons/background3.jpg",
+            "type":"image/jpg",
+            "sizes":"1440x835"
+        },
+        {
+            "src":"/static/img/rounded-rectangle.png",
+            "type":"image/png",
+            "sizes":"160x160"
+        }
+    ]
+}
