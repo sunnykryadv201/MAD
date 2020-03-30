@@ -2,15 +2,15 @@
   var urlsToCache = [
     '.',
     '/',
-    '/init.js',
-    '/ui.js',
-    '/materialize.css',
-    '/materialize.js',
-    '/app.js',
-    '/css/materialize.min.css',
-    '/css/style.css',
-    '/manifest.json',
-    '/img/icons/background1.jpg'
+    'static/init.js',
+    'static/ui.js',
+    'static/materialize.css',
+    'static/materialize.js',
+    'static/app.js',
+    'static/css/materialize.min.css',
+    'static/css/style.css',
+    'static/manifest.json',
+    'static/img/icons/background1.jpg'
 
   ];
   self.addEventListener('fetch', function(event) {

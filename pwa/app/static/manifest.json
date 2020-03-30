@@ -1,7 +1,7 @@
 {
     "name":"PWA Assignments",
     "short_name":"PwA",
-    "start_url":".",
+    "start_url":"./pages/index.html",
     "display":"standalone",
     "background_color":"#FFE9D2",
     "theme_color":"#FFE1C4",
